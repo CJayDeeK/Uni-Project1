@@ -1,0 +1,31 @@
+{
+    "modules": [
+        {
+            "name": "Computer Science",
+            "assignments": [
+                {
+                    "name": "Project 1",
+                    "deadline": "2026-03-13T05:26:22.098114",
+                    "weight": 30,
+                    "submitted": false,
+                    "grade": null
+                },
+                {
+                    "name": "Project 1",
+                    "deadline": "2026-03-08T00:00:00",
+                    "weight": 100.0,
+                    "submitted": false,
+                    "grade": null
+                }
+            ]
+        },
+        {
+            "name": "Mathmatics",
+            "assignments": []
+        },
+        {
+            "name": "Statistics",
+            "assignments": []
+        }
+    ]
+}
