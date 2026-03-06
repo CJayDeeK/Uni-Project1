@@ -1,0 +1,17 @@
+"""
+App must auto track assignment deadlines and calculate the mean grade of a module based on its current achieved grades.
+
+App should have email/push notification system to tell users when an assignment is due soon, should have a traffic light system (E.g. red/orange/green to sginify how close the dealine is) to promote work on the assignment
+and should have a algorithm to detect if a user may miss a submission deadline based on past submissions.
+
+App might have a dynamic dashboard to give information even quicker to users.
+
+---
+
+After discussion, we decided its best to use python as everyone is familiar with the language and can edit and contribute.
+
+We plan on creating a local app with python, due to the limitation of being unable to create a website, we will lack server access to save user information however, this project funtions more as a proof of concept.
+
+For the UI, i will like take inspirtation from Brightspace and its black and white colour scheme and blocky UI.
+"""
+
