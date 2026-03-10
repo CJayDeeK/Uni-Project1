@@ -9,23 +9,46 @@
                     "weight": 30,
                     "submitted": false,
                     "grade": null
+                }
+            ]
+        },
+        {
+            "name": "Mathmatics",
+            "assignments": [
+                {
+                    "name": "complete 1+1",
+                    "deadline": "2026-03-31T00:00:00",
+                    "weight": 10.0,
+                    "submitted": true,
+                    "grade": 65.0
                 },
                 {
-                    "name": "Project 1",
-                    "deadline": "2026-03-08T00:00:00",
-                    "weight": 100.0,
+                    "name": "Complete 1+1",
+                    "deadline": "2026-04-30T00:00:00",
+                    "weight": 20.0,
+                    "submitted": false,
+                    "grade": null
+                },
+                {
+                    "name": "Complete 2+6",
+                    "deadline": "2026-02-25T00:00:00",
+                    "weight": 40.0,
                     "submitted": false,
                     "grade": null
                 }
             ]
         },
         {
-            "name": "Mathmatics",
-            "assignments": []
-        },
-        {
             "name": "Statistics",
-            "assignments": []
+            "assignments": [
+                {
+                    "name": "Graph",
+                    "deadline": "2026-06-22T00:00:00",
+                    "weight": 100.0,
+                    "submitted": false,
+                    "grade": null
+                }
+            ]
         }
     ]
 }
